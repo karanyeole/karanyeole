@@ -24,7 +24,7 @@ I'm **Karan Yeole**, a dedicated student of Artificial Intelligence and Data Sci
 
 ## 🤝 Looking for Opportunities
 
-I am actively seeking opportunities in the fields of Data Science and Machine Learning. If you're interested in collaborating on data-driven projects or have opportunities that align with my expertise, please feel free to connect with me.
+I am actively seeking opportunities in the fields of Artificial Intelligence and Data Science. If you're interested in collaborating on data-driven projects or have opportunities that align with my expertise, please feel free to connect with me.
 
 ## 📫 Contact
 
