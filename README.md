@@ -20,7 +20,7 @@ I'm **Karan Yeole**, a dedicated student of Artificial Intelligence and Data Sci
 
 ## 🔗 Find Me Elsewhere
 
-- **LinkedIn**: [Karan Yeole]((https://www.linkedin.com/in/karan-yeole-5467b822a/))
+- **LinkedIn**: [Karan Yeole] ((https://www.linkedin.com/in/karan-yeole-5467b822a/))
 
 ## 🤝 Looking for Opportunities
 
