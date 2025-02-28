@@ -15,12 +15,15 @@ I'm **Karan Yeole**, a dedicated student of Artificial Intelligence and Data Sci
 - **Deep Learning**: Exploring advanced neural networks and architectures.
 - **Data Science**: Extracting meaningful insights from complex datasets.
 - **SQL**: Managing and querying databases with precision.
+- **Web Development**: Creating interactive and responsive web applications.
+- **Generative AI & LLMs**: Developing AI models that generate new content and solutions
 - **Natural Language Processing (NLP)**: Enhancing human-computer interaction through language.
 - **Generative AI**: Developing models that create new content and solutions.
 
 ## 🔗 Find Me Elsewhere
 
 - **LinkedIn**: [Karan Yeole] ((https://www.linkedin.com/in/karan-yeole-5467b822a/))
+- **LeetCode**" [Karan Yeole] (https://leetcode.com/u/Karanyeole1818/)
 
 ## 🤝 Looking for Opportunities
 
